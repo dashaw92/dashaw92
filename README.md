@@ -11,7 +11,7 @@ In order of most to least used, I have experience in the following languages:
 | F#       | [BF#](https://github.com/dashaw92/bfsharp)         | Esoteric language interpreter |
 | Kotlin   | [DannyShop](https://github.com/dashaw92/DannyShop) | Minecraft server plugin that provides the ability to create custom stores players may purchase items (and more) from. |
 | Rust     | [chip8](https://github.com/dashaw92/chip8)         | Chip-8 virtual machine emulator with a GUI display |
-| Clojure  | Currently learning                                 | Continuing my adventures in functional programming. More to see here soon. |
+| Clojure  | [Advent of Code](https://github.com/dashaw92/Advent/tree/master/clj) | Continuing my adventures in functional programming. More to see here soon. |
 | Zig      | [zigbasic](https://github.com/dashaw92/zigbasic)   | BASIC language interpreter with the goal of running BASIC on a Raspberry Pi Pico |
 | C        | [COP-2220C](https://github.com/dashaw92/COP-2220C) | Classwork demonstrating my knowledge of the language |
 
