@@ -6,6 +6,7 @@ In order of most to least used, I have experience in the following languages:
 
 | Language | Example                                            | Description |
 |----------|----------------------------------------------------|-------------|
+| Dart (w/ Flutter), Rust | [Capstone](https://github.com/dashaw92/capstone) | Pantry inventory system with backend server and companion app written with Flutter. |
 | Java     | [dan_world](https://github.com/dashaw92/dan_world) | Slimmed down Minecraft world data format for use in [another project](https://github.com/dashaw92/sheeptag-valence) |
 | Python   | Osmotic experience                                 | You tend to learn Python just by existing in this domain for an arbitrary period of time. |
 | F#       | [BF#](https://github.com/dashaw92/bfsharp)         | Esoteric language interpreter |
